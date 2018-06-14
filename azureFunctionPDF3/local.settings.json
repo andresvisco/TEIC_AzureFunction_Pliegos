@@ -1,0 +1,22 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=techintpliegosf85d1;AccountKey=cF54m18q1i+3/ieJQn1EK2+CEiDGFTuh9LnqdqPagv8VhOjN05pPZ+irXfqXiIRiR8jq2wA8K1N/JN7z/tzmjA==;EndpointSuffix=core.windows.net",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=techintpliegosf85d1;AccountKey=cF54m18q1i+3/ieJQn1EK2+CEiDGFTuh9LnqdqPagv8VhOjN05pPZ+irXfqXiIRiR8jq2wA8K1N/JN7z/tzmjA==;EndpointSuffix=core.windows.net"
+    //    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=anvi6vmw10diag244;AccountKey=RtBqvFGQ3hiuUSv9OFV6oGET+iRZw/XKFMbEcGEwG2ILWn9Fym/R216PuRGDloxBjnUHZCa0RReyEgYGRqQqUA==;BlobEndpoint=https://anvi6vmw10diag244.blob.core.windows.net/;TableEndpoint=https://anvi6vmw10diag244.table.core.windows.net/;QueueEndpoint=https://anvi6vmw10diag244.queue.core.windows.net/;FileEndpoint=https://anvi6vmw10diag244.file.core.windows.net/",
+    //    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=anvi6vmw10diag244;AccountKey=RtBqvFGQ3hiuUSv9OFV6oGET+iRZw/XKFMbEcGEwG2ILWn9Fym/R216PuRGDloxBjnUHZCa0RReyEgYGRqQqUA==;BlobEndpoint=https://anvi6vmw10diag244.blob.core.windows.net/;TableEndpoint=https://anvi6vmw10diag244.table.core.windows.net/;QueueEndpoint=https://anvi6vmw10diag244.queue.core.windows.net/;FileEndpoint=https://anvi6vmw10diag244.file.core.windows.net/"
+  }
+}
+
+
+
+//"DefaultEndpointsProtocol=https;AccountName=anvi6vmw10diag244;AccountKey=RtBqvFGQ3hiuUSv9OFV6oGET+iRZw/XKFMbEcGEwG2ILWn9Fym/R216PuRGDloxBjnUHZCa0RReyEgYGRqQqUA==;BlobEndpoint=https://pdfparsersoftte8592.blob.core.windows.net/;TableEndpoint=https://pdfparsersoftte8592.table.core.windows.net/;QueueEndpoint=https://pdfparsersoftte8592.queue.core.windows.net/;FileEndpoint=https://pdfparsersoftte8592.file.core.windows.net/",
+//"DefaultEndpointsProtocol=https;AccountName=pdfparsersoftte8592;AccountKey=OzGhfzG0otJKLvUvjhI6Wu91o7ZXT34ZqEiLHtl/tOJdhZTXgUwrNn/5N4YRbjTwFxDPtSowKn6RP2wsaAQPfg==;BlobEndpoint=https://pdfparsersoftte8592.blob.core.windows.net/;TableEndpoint=https://pdfparsersoftte8592.table.core.windows.net/;QueueEndpoint=https://pdfparsersoftte8592.queue.core.windows.net/;FileEndpoint=https://pdfparsersoftte8592.file.core.windows.net/",
+
+
+
+//"DefaultEndpointsProtocol=https;AccountName=pdfparsersoftte8592;AccountKey=OzGhfzG0otJKLvUvjhI6Wu91o7ZXT34ZqEiLHtl/tOJdhZTXgUwrNn/5N4YRbjTwFxDPtSowKn6RP2wsaAQPfg==;BlobEndpoint=https://pdfparsersoftte8592.blob.core.windows.net/;TableEndpoint=https://pdfparsersoftte8592.table.core.windows.net/;QueueEndpoint=https://pdfparsersoftte8592.queue.core.windows.net/;FileEndpoint=https://pdfparsersoftte8592.file.core.windows.net/"
+
+//"DefaultEndpointsProtocol=https;AccountName=anvi6vmw10diag244;AccountKey=RtBqvFGQ3hiuUSv9OFV6oGET+iRZw/XKFMbEcGEwG2ILWn9Fym/R216PuRGDloxBjnUHZCa0RReyEgYGRqQqUA==;BlobEndpoint=https://anvi6vmw10diag244.blob.core.windows.net/;TableEndpoint=https://anvi6vmw10diag244.table.core.windows.net/;QueueEndpoint=https://anvi6vmw10diag244.queue.core.windows.net/;FileEndpoint=https://anvi6vmw10diag244.file.core.windows.net/"
+
+
